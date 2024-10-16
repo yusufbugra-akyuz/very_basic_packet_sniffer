@@ -1,1 +1,1 @@
-Basic pacekt sniffer without scapy
+Basic packet sniffer without scapy
